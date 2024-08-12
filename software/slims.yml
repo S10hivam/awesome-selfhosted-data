@@ -1,0 +1,14 @@
+name: Seneyan Library Management Software
+website_url: https://slims.web.id/web/
+description:  ILS with modules for circulation, cataloging, label printing, offline circulation for when Internet access is not available, and much more.
+licenses:
+  - GPL-3.0
+platforms:
+  - Php
+tags:
+  - Document Management - Integrated Library Systems (ILS)
+source_code_url: https://github.com/slims/slims9_bulian
+demo_url: https://slims.web.id/web/
+stargazers_count: 170
+updated_at: '2024-08-11'
+archived: false
